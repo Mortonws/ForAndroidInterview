@@ -25,7 +25,7 @@
 
 * [Android 自定义ViewGroup入门实践](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/Android%20%E8%87%AA%E5%AE%9A%E4%B9%89ViewGroup%E5%85%A5%E9%97%A8%E5%AE%9E%E8%B7%B5.md)
 
-* [Android 缓存机制](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/Android%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
+* [Android 缓存机制](/android/AndroidCachingStrategy.md)
 
 * [Android 数据存储五种方式使用与总结](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/Android%20%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E4%BA%94%E7%A7%8D%E6%96%B9%E5%BC%8F%E4%BD%BF%E7%94%A8%E4%B8%8E%E6%80%BB%E7%BB%93.md)
 
